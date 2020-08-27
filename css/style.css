@@ -77,6 +77,13 @@ img {
   margin-top: 9rem;
 }
 
+.showcase-content h1 {
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 1.1;
+  margin: 0 0 2rem;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;
