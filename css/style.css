@@ -84,6 +84,15 @@ img {
   margin: 0 0 2rem;
 }
 
+.showcase-content p {
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 1.25;
+  margin: 0 0 2rem;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;
