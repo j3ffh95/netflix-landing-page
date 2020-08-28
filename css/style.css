@@ -1,5 +1,6 @@
 :root {
   --primary-color: #e50914;
+  --dark-color: #141414;
 }
 
 * {
@@ -106,6 +107,8 @@ img {
   line-height: 1.25;
   margin: 0 0 2rem;
 }
+
+/* Tabs */
 
 /* Buttons */
 .btn {
