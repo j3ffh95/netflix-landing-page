@@ -109,6 +109,11 @@ img {
 }
 
 /* Tabs */
+.tabs {
+  background: var(--dark-color);
+  padding-top: 1rem;
+  border-bottom: 3px solid #3d3d3d;
+}
 
 /* Buttons */
 .btn {
