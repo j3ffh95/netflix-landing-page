@@ -115,6 +115,15 @@ img {
   border-bottom: 3px solid #3d3d3d;
 }
 
+.tabs .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;
