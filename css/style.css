@@ -224,6 +224,10 @@ img {
   gap: 2rem;
 }
 
+.footer li {
+  line-height: 1.9;
+}
+
 /* Container */
 .container {
   max-width: 70%;
