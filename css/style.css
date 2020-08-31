@@ -180,6 +180,11 @@ img {
   margin-top: 2rem;
 }
 
+.table thead th {
+  text-transform: uppercase;
+  padding: 0.8rem;
+}
+
 /* Container */
 .container {
   max-width: 70%;
