@@ -185,6 +185,12 @@ img {
   padding: 0.8rem;
 }
 
+.table tbody tr td {
+  color: #999;
+  padding: 0.8rem 1.2rem;
+  text-align: center;
+}
+
 /* Container */
 .container {
   max-width: 70%;
