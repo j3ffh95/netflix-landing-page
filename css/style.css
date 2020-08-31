@@ -191,6 +191,10 @@ img {
   text-align: center;
 }
 
+.table tbody tr td:first-child {
+  text-align: left;
+}
+
 /* Container */
 .container {
   max-width: 70%;
