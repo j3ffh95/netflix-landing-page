@@ -195,6 +195,10 @@ img {
   text-align: left;
 }
 
+.table tbody tr:nth-child(odd) {
+  background: #222;
+}
+
 /* Container */
 .container {
   max-width: 70%;
