@@ -320,6 +320,10 @@ img {
     font-size: 1.5rem;
   }
 
+  .footer .footer-cols {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .btn-xl {
     font-size: 1.2rem;
     padding: 1.4rem 2rem;
